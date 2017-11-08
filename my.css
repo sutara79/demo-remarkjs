@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+
+pre, pre *, code, code * {
+  font-family: Consolas, monospace;
+}
+
+p.wrap-img {
+  text-align: center;
+}
+
+#img1 {
+  max-width: 50%;
+  max-height: 50%;
+}
